@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/One-Step-Ahead/",
+    "build": "vite build --base=/html-css_87_NickPosvystak/",
     "preview": "vite preview"
   },
   "devDependencies": {
